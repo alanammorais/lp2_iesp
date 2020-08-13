@@ -9,15 +9,14 @@
 ### Horários / Local
 
 * Horários:
-  - **Sexta-feira (19:00-22:00)** - Lab 06.
+  - **Sexta-feira (19:00-22:00)** - Virtual.
 
 ## Comunicação
 
 Toda a comunicação será realizada usando via email.
 Chat Aluno online
 
-## Atividades - Envio
-Via Classroom
+## Atividades - Envio Via Classroom
 
 ## Avaliações
 
